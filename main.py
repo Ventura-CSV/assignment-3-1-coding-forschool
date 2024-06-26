@@ -14,7 +14,7 @@ def main():
         min_value = number2
     else:
         min_value = number3    
-
+    print(f'{number1} {number2} {number3}')
     print(f'{min_value}')
     ########################################
     # Do not delete the return statement
