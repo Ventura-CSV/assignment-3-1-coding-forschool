@@ -12,7 +12,7 @@ def main():
         min_value = number1
     elif number2 < number1 and number2 < number3:
         min_value = number2
-    else:
+    else: 
         min_value = number3    
     print(f'{number1} {number2} {number3}')
     print(f'{min_value}')
